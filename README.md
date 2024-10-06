@@ -8,7 +8,7 @@ With our Methane Alert system, users can visualize methane emission data on an i
 
 To view the data [EMIT_Data](https://earth.jpl.nasa.gov/emit/data/data-portal/Greenhouse-Gases/)
 
-Explore the app at [awesome-streamlit.org](https://awesome-streamlit.org)!
+Explore the app at [marshtrigger.streamlit.app](https://marshtrigger.streamlit.app/)!
 
 Thank you for your interest!
 
